@@ -1,4 +1,4 @@
-package br.com.mizaeldouglas.api.user;
+package br.com.mizaeldouglas.api.entity.user;
 
 import jakarta.persistence.*;
 import org.hibernate.annotations.CreationTimestamp;
